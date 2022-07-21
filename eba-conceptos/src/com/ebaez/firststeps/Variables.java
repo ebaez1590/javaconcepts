@@ -12,5 +12,6 @@ public class Variables {
         System.out.println(speed);
         //Inicializar y asignar valores a las variables:
         int salary = 1000;
+        System.out.println((7>=6)&&('w'=='w'));
     }
 }
